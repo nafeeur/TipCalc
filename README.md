@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src = "https://i.imgur.com/7v6cETW.gif" width="1791" height="828"/>
+<img src = "https://i.imgur.com/7v6cETW.gif" />
 
 GIF Created with [EZGIF.com]
 
