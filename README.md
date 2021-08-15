@@ -4,7 +4,7 @@
 
 Submitted by: **Nafeeur Rahman**
 
-Time spent: **7** hours spent in total
+Time spent: **7.5** hours spent in total
 
 ## User Stories
 
