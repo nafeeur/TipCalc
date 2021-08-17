@@ -1,23 +1,16 @@
 # *TipCalc*
 
-**TipCalc** is a tip calculator application for iOS.
+**TipCalc** is a simple tip calculator application for iOS.
 
 
-The following **required** functionality is complete:
+The app contains the following features:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly.
-* [x] UI animations.
-* [x] Using locale-specific currency and currency thousands separators.
-* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app.       Just launch the app and start typing.
-- [x] Reset Button.
-- [x] Currency Converter (USD - Pound - Euro) 
-- [x] Split functionality 
-- [x] Dark Mode
-- [x] Custom App Icon & Theme
-- [x] Settings Menu
-- [x] Slider control instead of segmented control for "Tip selector" so that user can have more choice
-
+* [x] User can select between tip percentages by sliding through the values on the slider control and the tip value is updated accordingly.
+* [x] Using locale-specific currency and currency thousands separators including a currency converter (USD - Pound - Euro).
+* [x] Reset Button.
+* [x] Split functionality.
+* [x] Custom App icon & Dark theme.
 
 ## Video Walkthrough
 
