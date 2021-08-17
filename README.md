@@ -1,27 +1,15 @@
-# Pre-work - *TipCalc*
+# *TipCalc*
 
 **TipCalc** is a tip calculator application for iOS.
 
-Submitted by: **Nafeeur Rahman**
-
-Time spent: **7.5** hours spent in total
-
-## User Stories
 
 The following **required** functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly.
-
-The following **optional** features are implemented:
-
 * [x] UI animations.
-* [ ] Remembering the bill amount across app restarts (if <10mins)
 * [x] Using locale-specific currency and currency thousands separators.
-* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app.       Just launch the app and start typing.
 - [x] Reset Button.
 - [x] Currency Converter (USD - Pound - Euro) 
 - [x] Split functionality 
@@ -33,22 +21,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the app:
 
 <img src = "https://i.imgur.com/7v6cETW.gif" />
 
 GIF Created with [EZGIF.com]
 
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-Some challenges were encountered during the implementation of the "dark-mode" feature. More specifically, trying to pass data from one UIViewer to another. However, after spending much time researching, finally was able to implement the feature by using delegate and protocol functionallity.
-
 ## License
 
-    Copyright [2021] [Nafeeur Rahman]
+    Copyright 2021 Nafeeur Rahman
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
