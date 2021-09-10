@@ -17,7 +17,8 @@ The app contains the following features:
 Here's a walkthrough of the app:
 
 <img src = "https://i.imgur.com/7v6cETW.gif" />
-<iframe src="https://giphy.com/embed/02CAqajuRhcC3qMvQ1" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/02CAqajuRhcC3qMvQ1">via GIPHY</a></p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="LHzw1hE"><a href="https://imgur.com/LHzw1hE">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 GIF Created with [EZGIF.com]
 
