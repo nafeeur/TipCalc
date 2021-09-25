@@ -24,7 +24,7 @@ GIF Created with [EZGIF.com]
 
 ## License
 
-    **TipCalc** is a simple tip calculator application for iOS.
+    TipCalc is a simple tip calculator application for iOS.
     Copyright (C) 2021  Nafeeur Rahman
 
     This program is free software: you can redistribute it and/or modify
