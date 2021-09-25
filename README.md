@@ -16,12 +16,10 @@ The app contains the following features:
 
 Here's a walkthrough of the app:
 
-<img src = "https://i.imgur.com/7v6cETW.gif" />
+<img src = "https://i.imgur.com/11nlERt.gif" />
 
 
 GIF Created with [EZGIF.com]
-
-<img src = "https://media0.giphy.com/media/02CAqajuRhcC3qMvQ1/giphy.gif?cid=790b76117dbce5f7026d01f85617afa819145d633babec15&rid=giphy.gif&ct=g" />
 
 
 ## License
